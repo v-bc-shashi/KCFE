@@ -1,0 +1,1 @@
+This foler to understand what is String and how it works in JavaScript
